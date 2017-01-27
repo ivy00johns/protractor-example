@@ -16,7 +16,8 @@
     ```
 
 ## Conf.js
-* `conf.js` is the file that contains all of the settings for the Test Suite. In that file you can set the `baseUrl`.
+* `conf.js` is the file that contains all of the settings for the Test Suite. In that file you can set the `baseUrl`:
+    
     ```
     ...
     baseUrl: 'http://127.0.0.1:32769/admin',
